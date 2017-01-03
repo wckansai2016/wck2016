@@ -8,3 +8,4 @@ for-the-future-master/gulpconfig.js
 dist
 *.map
 .DS_Store
+.idea
